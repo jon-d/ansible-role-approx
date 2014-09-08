@@ -7,7 +7,7 @@ Configuration
 -------------
 
 A minimal configuration file is provided with the stable debian repositories
-accessed via the http.debian.net redirector.
+accessed via the http://http.debian.net/ mirror redirector.
 
 Git submodules usage
 --------------------
