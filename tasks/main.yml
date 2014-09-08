@@ -1,0 +1,5 @@
+- name: install approx
+  apt: pkg=approx state=installed
+
+- name: configure approx
+  copy: src=approx.conf dest=/etc/approx/approx.conf
